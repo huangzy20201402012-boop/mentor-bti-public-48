@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "dimensions": [
+    { "id": "type.em", "group": "type", "label": "探索 / 任务驱动", "shortLabel": "E/M", "description": "研究议题更偏探索还是任务", "axis": "em" },
+    { "id": "type.dn", "group": "type", "label": "纵深 / 网络资源", "shortLabel": "D/N", "description": "科研资源更依赖纵深积累还是外部网络", "axis": "dn" },
+    { "id": "type.sf", "group": "type", "label": "结构 / 弹性治理", "shortLabel": "S/F", "description": "科研过程更偏结构化还是弹性治理", "axis": "sf" },
+    { "id": "type.co", "group": "type", "label": "能力 / 成果评价", "shortLabel": "C/O", "description": "培养评价更偏能力形成还是成果交付", "axis": "co" },
+    { "id": "capital.research_power", "group": "capital", "label": "科研实力", "shortLabel": "科研实力", "description": "科研判断、方法与研究视野", "higherIsBetter": true },
+    { "id": "capital.network_capital", "group": "capital", "label": "人脉资源", "shortLabel": "人脉资源", "description": "合作与外部科研网络", "higherIsBetter": true },
+    { "id": "capital.funding_platform", "group": "capital", "label": "经费平台", "shortLabel": "经费平台", "description": "经费、设备、计算和平台支持", "higherIsBetter": true },
+    { "id": "capital.project_level", "group": "capital", "label": "项目能级", "shortLabel": "项目能级", "description": "项目规模、稳定性与研究价值", "higherIsBetter": true },
+    { "id": "access.network", "group": "access", "label": "网络可达", "shortLabel": "网络可达", "description": "学生实际接触合作网络的机会", "higherIsBetter": true },
+    { "id": "access.funding_platform", "group": "access", "label": "经费与平台可达", "shortLabel": "平台可达", "description": "学生实际获得经费、仪器与平台的程度", "higherIsBetter": true },
+    { "id": "access.opportunity", "group": "access", "label": "项目机会可达", "shortLabel": "机会可达", "description": "学生参与核心项目、会议和交流机会的程度", "higherIsBetter": true },
+    { "id": "mentoring.communication", "group": "mentoring", "label": "沟通反馈", "shortLabel": "沟通反馈", "description": "反馈的具体性与关键时刻可获得性", "higherIsBetter": true },
+    { "id": "mentoring.expectation_alignment", "group": "mentoring", "label": "预期管理", "shortLabel": "预期管理", "description": "目标、标准和优先级的明确程度", "higherIsBetter": true },
+    { "id": "mentoring.research_guidance", "group": "mentoring", "label": "科研指导", "shortLabel": "科研指导", "description": "科研判断与可学习的指导", "higherIsBetter": true },
+    { "id": "mentoring.independence_building", "group": "mentoring", "label": "独立培养", "shortLabel": "独立培养", "description": "逐步授权与独立科研能力培养", "higherIsBetter": true },
+    { "id": "mentoring.career_development", "group": "mentoring", "label": "职业发展", "shortLabel": "职业发展", "description": "职业讨论与发展支持", "higherIsBetter": true },
+    { "id": "experience.autonomy", "group": "experience", "label": "自主感", "shortLabel": "自主感", "description": "学生对研究路线与决策空间的感受", "higherIsBetter": true },
+    { "id": "experience.competence", "group": "experience", "label": "胜任感", "shortLabel": "胜任感", "description": "学生独立判断与推进的感受", "higherIsBetter": true },
+    { "id": "experience.relatedness", "group": "experience", "label": "关系支持", "shortLabel": "关系支持", "description": "学生在关系中感到的支持与安全", "higherIsBetter": true },
+    { "id": "experience.clarity", "group": "experience", "label": "确定感", "shortLabel": "确定感", "description": "学生对优先级与下一步的确定感", "higherIsBetter": true },
+    { "id": "climate.emotional_regulation", "group": "climate", "label": "情绪调节", "shortLabel": "情绪调节", "description": "压力下能否就事论事", "higherIsBetter": true },
+    { "id": "climate.fairness_respect", "group": "climate", "label": "公平尊重", "shortLabel": "公平尊重", "description": "机会、规则和评价是否公平尊重", "higherIsBetter": true },
+    { "id": "climate.reliability", "group": "climate", "label": "稳定可靠", "shortLabel": "稳定可靠", "description": "承诺、支持和行为的稳定程度", "higherIsBetter": true },
+    { "id": "climate.openness_to_dissent", "group": "climate", "label": "异议开放", "shortLabel": "异议开放", "description": "学生表达不同判断的空间", "higherIsBetter": true },
+    { "id": "climate.boundary_awareness", "group": "climate", "label": "边界分寸", "shortLabel": "边界分寸", "description": "对休息、职业和私人边界的尊重", "higherIsBetter": true }
+  ]
+}
+

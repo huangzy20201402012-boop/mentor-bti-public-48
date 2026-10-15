@@ -1,0 +1,24 @@
+{
+  "name": "@mentor-bti/web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mentor-bti/bti-content": "workspace:*",
+    "@mentor-bti/bti-core": "workspace:*",
+    "@mentor-bti/bti-scoring": "workspace:*",
+    "@mentor-bti/ui-tokens": "workspace:*",
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.117.2",
+    "html-to-image": "^1.11.13",
+    "next": "^16.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^3.25.76"
+  }
+}

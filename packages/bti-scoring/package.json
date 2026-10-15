@@ -1,0 +1,11 @@
+{
+  "name": "@mentor-bti/bti-scoring",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": { ".": "./src/index.ts" },
+  "dependencies": {
+    "@mentor-bti/bti-core": "workspace:*"
+  }
+}
+

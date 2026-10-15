@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "allowJs": false,
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "jsx": "preserve",
+    "baseUrl": ".",
+    "paths": {
+      "@mentor-bti/bti-core": ["packages/bti-core/src/index.ts"],
+      "@mentor-bti/bti-content": ["packages/bti-content/src/index.ts"],
+      "@mentor-bti/bti-scoring": ["packages/bti-scoring/src/index.ts"],
+      "@mentor-bti/ui-tokens": ["packages/ui-tokens/src/index.ts"]
+    }
+  },
+  "include": ["apps/**/*.ts", "apps/**/*.tsx", "packages/**/*.ts", "miniprogram/dev/src/**/*.ts", "tests/**/*.ts", "vitest.config.ts", "eslint.config.mjs"],
+  "exclude": ["node_modules", ".next", "coverage"]
+}
+

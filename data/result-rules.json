@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "rules": [
+    { "id": "quick-high-autonomy", "product": "quick", "tag": "高自主", "conditions": [{ "dimensionId": "experience.autonomy", "comparator": "gte", "value": 70 }] },
+    { "id": "quick-high-structure", "product": "quick", "tag": "高结构", "conditions": [{ "dimensionId": "type.sf", "comparator": "lte", "value": 40 }] },
+    { "id": "quick-high-flexibility", "product": "quick", "tag": "高弹性", "conditions": [{ "dimensionId": "type.sf", "comparator": "gte", "value": 60 }] },
+    { "id": "quick-open-network", "product": "quick", "tag": "外部连接", "conditions": [{ "dimensionId": "type.dn", "comparator": "gte", "value": 60 }] },
+    { "id": "quick-deep-focus", "product": "quick", "tag": "纵深积累", "conditions": [{ "dimensionId": "type.dn", "comparator": "lte", "value": 40 }] }
+  ]
+}
+

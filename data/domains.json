@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "domains": [
+    { "code": "ED", "name": "深研探索域", "subtitle": "向深处寻找答案", "worldview": "探索驱动 × 纵深资源", "question": "这个现象为什么会发生？", "description": "强调长期积累、专业纵深、原创问题与机制探索的科研生态。", "resourceStructure": "核心资源沉淀在专业方法、长期数据、稳定研究线与高密度学术训练中。", "researchRhythm": "以问题打磨、反复验证和阶段复盘为主，推进慢而深。", "fitStudents": "重视方法、愿意长期投入，并能接受高标准打磨的学生。", "color": "#3E5C8A", "lightColor": "#DCE6F4", "darkColor": "#243A5A" },
+    { "code": "EN", "name": "前沿连接域", "subtitle": "在连接中寻找新问题", "worldview": "探索驱动 × 网络资源", "question": "这个问题能不能和另一个领域结合？", "description": "强调跨学科、合作、新方法、国际交流与新兴研究领域的科研生态。", "resourceStructure": "核心资源来自跨学科语言、合作网络、前沿工具与外部机会入口。", "researchRhythm": "围绕窗口、合作与新问题快速试探，节奏更具变化性。", "fitStudents": "好奇、善沟通，能在陌生领域中学习并主动建立连接的学生。", "color": "#3F8F9D", "lightColor": "#D9EFF2", "darkColor": "#25606A" },
+    { "code": "MD", "name": "工程建造域", "subtitle": "把问题真正做出来", "worldview": "任务驱动 × 纵深资源", "question": "怎样把这个指标真正实现？", "description": "强调工程、技术、方法、工艺与专业积累的科研生态。", "resourceStructure": "核心资源是技术平台、工艺经验、可复用方法与专业能力积累。", "researchRhythm": "围绕指标、实验迭代、质量控制和交付节点持续推进。", "fitStudents": "愿意练基本功、看重实践反馈，并能在明确要求下持续推进的学生。", "color": "#5C8A5E", "lightColor": "#E1EEDF", "darkColor": "#39563B" },
+    { "code": "MN", "name": "资源协同域", "subtitle": "组织资源完成复杂目标", "worldview": "任务驱动 × 网络资源", "question": "完成这个项目，我们需要哪些资源？", "description": "强调大项目、多团队、平台、产业合作与多机构协同的科研生态。", "resourceStructure": "核心资源是大型平台、多方协作、项目接口与可调度的外部网络。", "researchRhythm": "围绕项目节点、角色协同和资源调度推进，节奏受整体目标牵引。", "fitStudents": "能主动沟通、愿意承担模块责任，并能在复杂组织中建立个人路径的学生。", "color": "#C98A3D", "lightColor": "#F5E8D6", "darkColor": "#8A5A23" }
+  ]
+}

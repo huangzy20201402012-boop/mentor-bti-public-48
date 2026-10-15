@@ -1,0 +1,16 @@
+node_modules/
+.pnpm-store/
+.next/
+.netlify/
+coverage/
+dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+
+# Local backup and transient test output; neither is source of truth.
+miniprogram-assets-backup-*/
+_vitest_out.txt
+supabase/.temp/
+
